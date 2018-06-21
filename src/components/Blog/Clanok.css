@@ -1,0 +1,31 @@
+div.clanok{
+    height: auto;
+    padding: 15px;
+    margin: 15px;
+    border: 5px solid #541f04;
+    border-radius: 25px;
+    box-shadow: 5px 5px 12px black;
+    background-color: rgba(41, 12, 5, 1);
+}
+div.clanokFoto{
+
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: aliceblue;
+
+    border: 5px double #541f04;
+    box-shadow: 5px 5px 12px black;
+}
+div.clanokFoto img.contentFoto {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 5px double #541f04;
+    box-shadow: 5px 5px 12px black;
+}
+
+div.clanokFoto img.contentFoto p{
+    float: left;
+    margin-left: 15px;
+}

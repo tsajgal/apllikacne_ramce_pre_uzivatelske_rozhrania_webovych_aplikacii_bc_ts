@@ -1,0 +1,186 @@
+div.upper {
+    background-color: rgba(41, 12, 5, 0.9);
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    transition: all 0.4s ease;
+}
+
+div.logo {
+    background: url("../img/logo.png") no-repeat;
+    background-size: 130px 80px;
+    width: 130px;
+    height: 80px;
+    margin-top: 10px;
+    float: left;
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+div.logo:hover {
+    margin-left: 10px;
+}
+
+img.sticky2 {
+    height: 50px;
+}
+img.sticky2:hover {
+    margin-top: 5px;
+    height: 60px;
+}
+
+ul.menu_contact {
+    width: auto;
+    list-style: none;
+    margin: 0;
+    float: left;
+    transition: all 0.4s ease;
+}
+ul.menu_contact li {
+    float: left;
+    text-indent: 35px;
+    margin-left: 33px;
+    font-size: 18px;
+    font-family: myFont;
+    transition: all 0.4s ease;
+}
+ul.menu_contact li a {
+    line-height: 50px;
+    text-indent: 30px;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    transition: all 0.4s ease;
+}
+ul.menu_contact li a i {
+    position: absolute;
+    margin-top: 10px;
+}
+ul.menu_contact li a:hover {
+    color: #CB9964;
+    text-decoration: none;
+    transition: all 0.4s ease;
+}
+ul.menu_contact li a:active {
+    color: #CB9964;
+    text-decoration: none;
+    transition: all 0.4s ease;
+}
+
+div.login div{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    transition: all 0.4s ease;
+    background-color: #541f04;
+    outline-color: #CB9964;
+    margin:5px;
+    padding: 8px;
+    border-style: none;
+    font-family: "Releway", serif;
+    float: right;
+}
+div.login button{
+    color: white;
+    text-decoration: none;
+    transition: all 0.4s ease;
+    background-color: #541f04;
+    outline-color: #CB9964;
+    margin:5px;
+    padding: 8px;
+    border-style: none;
+    font-family: "Releway", serif;
+    float: right;
+}
+
+div.login button:hover {
+    color: #541f04;
+    text-decoration: none;
+    transition: all 0.4s ease;
+    background-color: #CB9964;
+    outline-color: #541f04;
+}
+div.login button:active {
+    color: #541f04;
+    text-decoration: none;
+    transition: all 0.4s ease;
+}
+
+div.login div:hover {
+    color: #541f04;
+    text-decoration: none;
+    transition: all 0.4s ease;
+    background-color: #CB9964;
+    outline-color: #541f04;
+}
+div.login div:active {
+    color: #541f04;
+    text-decoration: none;
+    transition: all 0.4s ease;
+}
+
+
+hr.navigationHr {
+    display: block;
+    float: left;
+    margin: 0;
+    background-color: white;
+    border-style: double;
+    border-width: 1px;
+    border-color: white;
+    transition: all 0.4s ease;
+}
+
+ul.navigation {
+    width: auto;
+    height: auto;
+    margin: 0;
+    float: left;
+    list-style: none;
+    color: #CB9964;
+    transition: all 0.4s ease;
+}
+ul.navigation li {
+    float: left;
+    padding-left: 10px;
+    font-size: 25px;
+    line-height: 48px;
+    font-family: myFont;
+    transition: all 0.4s ease;
+    color: #CB9964;
+    text-decoration: none;
+}
+ul.navigation li:hover {
+    color: white;
+    text-decoration: none;
+    transition: all 0.4s ease;
+}
+ul.navigation li:active {
+    color: white;
+    text-decoration: none;
+    transition: all 0.4s ease;
+}
+ul.navigation li a {
+    color: #CB9964;
+    text-decoration: none;
+}
+ul.navigation li a:hover {
+    color: white;
+    text-decoration: none;
+    transition: all 0.4s ease;
+}
+ul.navigation li a:active {
+    color: white;
+    text-decoration: none;
+    transition: all 0.4s ease;
+}
+hr {
+    width: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    background-color: #541f04;
+    border-style: double;
+    border-width: 1px;
+    border-color: #541f04;
+    transition: all 0.4s ease;
+}

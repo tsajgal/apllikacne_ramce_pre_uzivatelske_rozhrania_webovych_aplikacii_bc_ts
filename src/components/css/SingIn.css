@@ -1,0 +1,72 @@
+
+div.sing_in{
+    padding: 5px;
+    height: auto;
+    float: left;
+    background-color: #290c05;
+    border: 3px solid #541f04;
+    border-radius: 20px;
+    box-shadow: 5px 5px 12px black;
+    margin: 20px;
+}
+
+form input {
+    margin: 5%;
+    width: 90%;
+    background-color: #CB9964;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #541f04;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: "Releway", serif;
+    color: rgba(41, 12, 5, 0.9);
+    padding: 5px;
+    outline-color: #CB9964;
+}
+input:hover{
+    color: #CB9964;
+    background-color: #541f04;
+    outline-color: #CB9964;
+}
+
+form button {
+    float: right;
+    margin: 5%;
+    background-color: #541f04;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #541f04;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: "Releway", serif;
+    color: #CB9964;
+    padding: 5px;
+}
+button:hover{
+    color: #541f04;
+    background-color: #CB9964;
+}
+
+a {
+    text-align: center;
+    color: white;
+}
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+a:active {
+    text-decoration: none;
+    color: white;
+}
+
+p.zab_heslo{
+    text-align: center;
+    color: #CB9964;
+}
+
+p.sing_out{
+    text-align: center;
+    color: white;
+}

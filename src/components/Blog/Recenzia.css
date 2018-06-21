@@ -1,0 +1,31 @@
+div.recenzia{
+    padding: 15px;
+    margin: 15px;
+    border: 5px solid #541f04;
+    border-radius: 25px;
+    background-color: rgba(41, 12, 5, 1);
+    box-shadow: 5px 5px 12px black;
+}
+div.recenzia ul{
+    width: 100%;
+    padding: 5px;
+    float: left;
+    color: #CB9964;
+    list-style: none;
+}
+div.recenzia ul li{
+    float: left;
+    font-family: "Releway", serif;
+    color: #CB9964;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    padding: 5px 0 5px;
+}
+div.recenzia ul li.odpoved{
+    font-family: "Releway", serif;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}

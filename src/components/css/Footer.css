@@ -1,0 +1,136 @@
+div.footer {
+    height: auto;
+    background-color: #290c05;
+    bottom: 0px;
+}
+div.footer hr {
+    width: auto;
+    margin: 0;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #541f04;
+}
+div.footer div.footerUp {
+    height: 200px;
+    padding: 65px 0 50px;
+}
+div.footer div.footerUp div.footerColumn {
+    width: 20%;
+    height: auto;
+    float: left;
+    text-align: center;
+}
+div.footer div.footerUp div.footerColumn h3 {
+    color: #CB9964;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Releway", serif;
+    margin: 0;
+}
+div.footer div.footerUp div.footerColumn hr {
+    width: 70%;
+    align-items: center;
+    margin: 24px 15%;
+    padding: 0;
+    background-color: #CB9964;
+    border-style: double;
+    border-width: 1px;
+    border-color: #CB9964;
+}
+div.footer div.footerUp div.footerColumn p {
+    width: 100%;
+    color: #CB9964;
+    font-size: 13px;
+    font-family: "Releway", serif;
+    line-height: 30px;
+    float: left;
+    text-align: center;
+}
+div.footer div.footerUp div.footerColumn p a {
+    color: #CB9964;
+    font-size: 13px;
+    font-family: "Releway", serif;
+    text-decoration: none;
+}
+div.footer div.footerUp div.footerMap {
+    float: left;
+    width: 40%;
+    padding-left: 30px;
+}
+div.footer hr.hr2 {
+    margin: 0;
+    background-color: #CB9964;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #CB9964;
+}
+div.footer div.footerBottom {
+    height: 90px;
+    padding-top: 18px;
+}
+div.footer div.footerBottom div.footerLeft {
+    padding-top: 22px;
+    float: left;
+    width: 50%;
+}
+div.footer div.footerBottom div.footerLeft h3 {
+    color: #CB9964;
+    width: auto;
+    float: right;
+    padding-top: 10px;
+    padding-left: 22px;
+    margin: 0;
+    font-family: "Releway", serif;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: left;
+}
+div.footer div.footerBottom div.footerLeft input {
+    margin-left: 20px;
+    background-color: #CB9964;
+    border-color: #541f04;
+    outline-color: #CB9964;
+    border-style: solid;
+    width: 310px;
+    color: #541f04;
+    font-family: "Releway", serif;
+    padding: 6px 0 6px 5px;
+    float: right;
+}
+div.footer div.footerBottom div.footerLeft button {
+    background-color: #541f04;
+    color: #CB9964;
+    outline-color: #CB9964;
+    margin: 0;
+    padding: 8px 22px;
+    border-style: none;
+    font-size: 11px;
+    font-family: "Releway", serif;
+    float: right;
+}
+div.footer div.footerBottom div.footerRight {
+    width: 40%;
+    float: right;
+    margin-right: 25px;
+}
+div.footer div.footerBottom div.footerRight div.footerButton {
+    width: 100%;
+}
+div.footer div.footerBottom div.footerRight div.footerButton i {
+    float: right;
+}
+div.footer div.footerBottom div.footerRight div.copiright {
+    width: 100%;
+    color: #CB9964;
+    float: right;
+    font-size: 11px;
+    font-family: "Releway", serif;
+    text-align: right;
+}
+div.footer div.footerBottom div.footerRight div.copiright p{
+    color: white;
+    font-size: 10px;
+    text-align: right;
+    font-family: "Releway", serif;
+    text-decoration: none;
+}

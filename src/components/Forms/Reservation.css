@@ -1,0 +1,153 @@
+form h1 {
+    float: left;
+    width: 100%;
+    color: #CB9964;
+}
+form hr {
+    width: 100%;
+    height: 1px;
+    float: left;
+    margin: 5px auto 24px auto;
+    color: #CB9964;
+    background-color: #CB9964;
+    border-style: solid;
+    border-color: #CB9964;
+}
+form div.osobne_udaje {
+    float: left;
+    width: 50%;
+}
+form div.osobne_udaje div.vstupy {
+    width: 100%;
+    float: left;
+}
+div.osobne_udaje div.vstupy p {
+    width: 150px;
+    float: left;
+    font-size: 20px;
+    color: #CB9964;
+    padding: 5px;
+}
+form div.osobne_udaje div.vstupy input {
+    float: left;
+    width: 300px;
+    height: 45px;
+    background-color: #CB9964;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #541f04;
+    border-radius: 5px;
+    font-size: 20px;
+    color: rgba(41, 12, 5, 0.9);
+    padding: 5px;
+    outline-color: #CB9964;
+}
+form div.udaje_ubytovanie {
+    float: left;
+    width: 50%;
+}
+form div.udaje_ubytovanie div.vstupy {
+    width: 100%;
+    float: left;
+}
+form div.udaje_ubytovanie div.vstupy p {
+    width: 150px;
+    float: left;
+    font-size: 20px;
+    color: #CB9964;
+    padding: 5px;
+}
+form div.udaje_ubytovanie div.vstupy input {
+    float: left;
+    width: 200px;
+    height: 45px;
+    background-color: #CB9964;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #541f04;
+    border-radius: 5px;
+    font-size: 20px;
+    color: rgba(41, 12, 5, 0.9);
+    padding: 5px;
+    outline-color: #CB9964;
+}
+form div.tlacidla {
+    width: 100%;
+}
+form div.tlacidla button#objednavky {
+    margin: 10px;
+    float: right;
+    width: 300px;
+    height: 45px;
+    background-color: #CB9964;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #541f04;
+    border-radius: 5px;
+    font-size: 20px;
+    color: rgba(41, 12, 5, 0.9);
+    padding: 5px;
+    outline-color: #CB9964;
+}
+form div.tlacidla button#objednavky:hover {
+    color: #CB9964;
+    background-color: #541f04;
+}
+form div.tlacidla input#uloz {
+    float: right;
+    width: 200px;
+    height: 45px;
+    margin: 10px;
+    background-color: #CB9964;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #541f04;
+    border-radius: 5px;
+    font-size: 20px;
+    color: rgba(41, 12, 5, 0.9);
+    padding: 5px;
+    outline-color: #CB9964;
+}
+form div.tlacidla input#uloz:hover {
+    color: #CB9964;
+    background-color: #541f04;
+}
+form div.tlacidla h1#vasa_objednavka {
+    float: left;
+    width: 50%;
+    color: #CB9964;
+    margin-top: 0;
+}
+
+
+
+div.vysledok {
+    float: left;
+    width: 100%;
+}
+div.vysledok h2 {
+    float: left;
+    text-decoration: underline;
+    width: 100%;
+    color: #CB9964;
+}
+div.vysledok div#eror1 h3 {
+    float: left;
+    width: 100%;
+    color: #CB9964;
+}
+div.vysledok div.vysledok_udaje {
+    width: 32%;
+    float: left;
+    margin-right: 2%;
+    display: block;
+}
+div.vysledok div.vysledok_udaje ul {
+    padding: 5px;
+    float: left;
+    color: #CB9964;
+    list-style: none;
+}
+div.vysledok div.vysledok_udaje:nth-child(3) {
+    margin-right: 0px;
+}

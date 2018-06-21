@@ -1,0 +1,12 @@
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const LANDING = '/';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const PASSWORD_FORGET = '/pw-forget';
+export const INF = '/Inf';
+export const BLOG = '/Blog';
+export const CENIK = '/Cenik';
+export const KONTAKT = '/Kontakt';
+/*export const OBSADENOST = '/Obsadenost';*/
+export const RESERVATION = '/Reservation';

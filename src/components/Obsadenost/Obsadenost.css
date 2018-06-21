@@ -1,0 +1,55 @@
+/*.booking-calendar {
+    width: auto;
+    .header {
+        width: auto;
+        .header-content {
+            width: auto;
+            .icon-previous {
+                width: auto;
+            }
+            .icon-next {}
+            .month-label {}
+        }
+    }
+
+    .week {
+        &.names {
+            .day-box .day {}
+        }
+
+        .day-box .day {
+            &.different-month {}
+            &.selected {}
+            &.today {}
+            &.booked-day:before {}
+            &.booked-night:after {}
+        }
+    }
+}*/
+
+.booking-calendar {
+    background-color: #290c05;
+}
+
+.booking-calendar .header {
+    background-color: #CB9964;
+}
+.booking-calendar .header .header-content {
+    width: auto;
+}
+.booking-calendar .header .header-content .icon-previous {
+    width: auto;
+}
+.booking-calendar .header .header-content .icon-next {}
+.booking-calendar .header .header-content .month-label {}
+
+.booking-calendar .week {
+
+}
+.booking-calendar .week .day-box .day {
+    background-color: #CB9964;
+}
+
+.booking-calendar .week .day-box .day .today {
+    background-color: #CB9964;
+}
